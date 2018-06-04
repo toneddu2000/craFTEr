@@ -9,3 +9,8 @@ It's quite unusable right now, but it should have the following features in a(ve
 	* placing / duplicating / grouping entites
 * Game editor
 	* Test level in realtime just pressing a button
+
+# License
+* Source code is released under MIT license (see license file in src folder)
+* Art assets (models, textures, sounds) are all created by me (Antonio "toneddu2000" Latronico) and released under CC0 license
+* GLSL shader files are property of respective authors. See license in every file before use
