@@ -1,4 +1,4 @@
 game crafter
 name "craFTEr"
-basegame gamedata
+basegame game
 disablehomedir 1
